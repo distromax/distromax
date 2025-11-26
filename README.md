@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm distromax! 👋
 
-<!--
-**distromax/distromax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Developer & Solution Architect
 
-Here are some ideas to get you started:
+I'm a passionate **Developer and Solution Architect** with **18+ years of experience** delivering robust, scalable solutions across diverse industries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 Professional Focus
+
+🔧 **Maintenance & Repair Solutions**  
+Specialized in designing and implementing systems for utility and industrial environments, ensuring operational efficiency and reliability.
+
+🏭 **Industrial Expertise**  
+Deep experience working with industrial companies, understanding the unique challenges of production environments and developing tailored technical solutions.
+
+🛠️ **Developer Environments**  
+Expert in building and optimizing developer tooling, CI/CD pipelines, and infrastructure that empowers teams to deliver quality software faster.
+
+---
+
+### 🛠️ What I Bring to the Table
+
+- **Solution Architecture** — Designing end-to-end systems that scale
+- **Technical Leadership** — Guiding teams through complex implementations
+- **Problem Solving** — Turning business challenges into technical solutions
+- **Cross-Industry Experience** — Bridging utility, industrial, and software development domains
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=distromax&show_icons=true&theme=dark&hide_border=true)
+
+---
+
+### 💬 Let's Connect!
+
+I'm always open to discussing new projects, innovative ideas, or opportunities to collaborate on interesting challenges.
+
+---
+
+*"Building solutions that stand the test of time."*
