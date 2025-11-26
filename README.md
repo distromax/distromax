@@ -2,13 +2,13 @@
 
 ## 🚀 Developer & Solution Architect
 
-I'm a passionate **Developer and Solution Architect** with **18+ years of experience** delivering robust, scalable solutions across diverse industries.
+I'm a passionate **Developer and Solution Architect** with **10 years of experience as Administrator** and  **18+ years of experience** delivering robust, scalable solutions across diverse industries.
 
 ---
 
 ### 💼 Professional Focus
 
-🔧 **Maintenance & Repair Solutions**  
+🔧 **Maintenance Solutions**
 Specialized in designing and implementing systems for utility and industrial environments, ensuring operational efficiency and reliability.
 
 🏭 **Industrial Expertise**  
