@@ -30,7 +30,7 @@ Expert in building and optimizing infrastructure that empowers teams to deliver 
 
 ---
 
-### Areas of Experience
+### 📚 Areas of Experience
 
 - Maintenance and workforce management systems
 - Asset and facility management
@@ -41,6 +41,17 @@ Expert in building and optimizing infrastructure that empowers teams to deliver 
 - Software for energy, water and wastewater providers
 - Systems for municipal utilities and infrastructure operators
 - Solutions for onshore and offshore wind farm operators
+
+---
+
+## 🔬 Technical Interests
+
+- C# development in industrial and operational contexts
+- Clean architecture and long lived software structures
+- Data models for assets, maintenance workflows and spatial information
+- Integration work across heterogeneous systems
+- Reliability, stability and operational transparency
+- Maker projects, embedded systems and energy related hardware topics
 
 ---
 
