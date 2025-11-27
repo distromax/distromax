@@ -1,8 +1,8 @@
 # Hi there, I'm distromax! 👋
 
-## 🚀 Developer & Solution Architect
+## 🚀 Senior Software Engineer & Solution Architect
 
-I'm a passionate **Developer and Solution Architect** with **10 years of experience as Administrator** and  **18+ years of experience** delivering robust, scalable solutions across diverse industries. Focus on maintenance, industrial operations and long term system reliability
+I'm a passionate **Senior Software Engineer and Solution Architect** with **10 years of experience as Administrator** and  **18+ years of experience** delivering robust, scalable solutions across diverse industries. Focus on maintenance, industrial operations and long term system reliability
 
 I work in the field of maintenance software, asset management and operational support systems in environments where downtime is expensive.
 
