@@ -2,7 +2,9 @@
 
 ## 🚀 Developer & Solution Architect
 
-I'm a passionate **Developer and Solution Architect** with **10 years of experience as Administrator** and  **18+ years of experience** delivering robust, scalable solutions across diverse industries.
+I'm a passionate **Developer and Solution Architect** with **10 years of experience as Administrator** and  **18+ years of experience** delivering robust, scalable solutions across diverse industries. Focus on maintenance, industrial operations and long term system reliability
+
+I work in the field of maintenance software, asset management and operational support systems in environments where downtime is expensive.
 
 ---
 
@@ -15,7 +17,7 @@ Specialized in designing and implementing systems for utility and industrial env
 Deep experience working with industrial companies, understanding the unique challenges of production environments and developing tailored technical solutions.
 
 🛠️ **Developer Environments**  
-Expert in building and optimizing developer tooling, CI/CD pipelines, and infrastructure that empowers teams to deliver quality software faster.
+Expert in building and optimizing infrastructure that empowers teams to deliver quality software.
 
 ---
 
@@ -28,15 +30,23 @@ Expert in building and optimizing developer tooling, CI/CD pipelines, and infras
 
 ---
 
-### 📊 GitHub Stats
+### Areas of Experience
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=distromax&show_icons=true&theme=dark&hide_border=true)
+- Maintenance and workforce management systems
+- Asset and facility management
+- Industrial and utility operations
+- Integration of ERP, GIS and process control systems
+- Mobile solutions for field service teams
+- Middleware for automation related processes, for example high-bay warehouse in the automotive sector
+- Software for energy, water and wastewater providers
+- Systems for municipal utilities and infrastructure operators
+- Solutions for onshore and offshore wind farm operators
 
 ---
 
-### 💬 Let's Connect!
+### 📊 GitHub Stats
 
-I'm always open to discussing new projects, innovative ideas, or opportunities to collaborate on interesting challenges.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=distromax&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
