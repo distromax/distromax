@@ -10,7 +10,7 @@ I work in the field of maintenance software, asset management and operational su
 
 ### 💼 Professional Focus
 
-🔧 **Maintenance Solutions**
+🔧 **Maintenance Solutions**  
 Specialized in designing and implementing systems for utility and industrial environments, ensuring operational efficiency and reliability.
 
 🏭 **Industrial Expertise**  
