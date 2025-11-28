@@ -1,4 +1,4 @@
-# Hi, I'm Distromax 👋
+![Header](./asset/github-header-banner.png)
 
 I enjoy programming as much as children enjoy playing in a sandbox or building sandcastles on the beach 🏖️
 There is something deeply satisfying about shaping logic, connecting systems and watching ideas compile into real behaviour ⚙️✨
@@ -6,52 +6,36 @@ Programming never felt like an obligation, but rather a place to tinker ⚙️ a
 
 In the end, they're just sandcastles too — only these ones run on servers 🏰🖥️
 
+One of the things I enjoy most is seeing my oldest son discover the same fascination for programming that pulled me in years ago. Watching him explore code with the same curiosity I once had feels like seeing the loop continue. We often talk about ideas, experiment together and share that quiet thrill when something finally works. It is a personal reminder that this craft is more than a job. It is something that can inspire across generations.
+
 ## 🧪 My profession
 
 <details>
   <summary>... read more</summary>
+<br>
 
-I work on systems that keep infrastructure running.
-Maintenance workflows, industrial data, operational logic.
-Whether it has assets, sensors, schedules or machines, all of that is my business.
-
-My background spans eighteen years of writing code, fixing old code and designing structures that survive the real world.  
-I enjoy the intersection of software, hardware and operations.
+For almost two decades I have been working in a company that builds software for maintenance and asset management. This is the domain I know best. My daily work has been shaped by the realities of inspections, work orders, asset lifecycles, planned and unplanned maintenance, interfaces to foreign systems and the operational pressure that comes with keeping infrastructure running. It is the field where my technical work meets real world processes.
 
 </details>
 
-## 🔧 Things I like working on
+## 🔧 My hobbys
 
 <details>
-  <summary>... more about what I like working on</summary>
+  <summary>... read more</summary>
+<br>
 
-- Maintenance logic and asset centric data models  
-- Industrial and utility system behaviour  
-- Linking systems that never planned to be linked  
-- Middleware that talks to machines  
-- Long lived architectures  
-- Making old software behave better than expected
-
-</details>
-
-## 🧰 Tech interests
-
-<details>
-  <summary>... more about my technical interests</summary>
-
-- C sharp in operational environments  
-- Clean architecture and durable structures  
-- Spatial and asset data  
-- Integrations across mixed platforms  
-- Reliability and transparency in system design  
-- Maker projects, embedded tech and energy systems
+* embedded systems, microcontrollers and IoT projects
+* home automation with open source platforms
+* energy systems, solar power and battery storage
+* 3D printing and CNC machining for maker projects
 
 </details>
 
 ## 🧰 Tech Stack
 
 <details>
-  <summary>... click to expand tech stack</summary>
+  <summary>... read more</summary>
+<br>
 
 ### 🧰 Programming
 
@@ -59,37 +43,26 @@ I enjoy the intersection of software, hardware and operations.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-plain.svg" height="40" alt="Delphi" />
 </p>
 
-My main work lives in C sharp and operational software environments.  
-Swift and Delphi show up occasionally when old systems or mobile side projects need attention.
+My main work lives in C# and operational software environments.
+Delphi shows up occasionally when old systems need my attention.
 
 ### Architecture and Integrations
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="MS SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebird/firebird-plain.svg" height="40" alt="Firebird" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/influxdb/influxdb-original.svg" height="40" alt="InfluxDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
 </p>
-
-I work with mixed database landscapes in industrial and operational software.
-SQL first, but time series systems like InfluxDB fit well for hardware and maker projects.
 
 ### 🔧 Tools and Ecosystem
 <p>
@@ -103,20 +76,6 @@ SQL first, but time series systems like InfluxDB fit well for hardware and maker
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="JetBrains Tools" />
 </p>
 
-I work daily with the JetBrains ecosystem
-ReSharper, Rider, YouTrack, TeamCity and Space.
+I work within the JetBrains ecosystem like ReSharper, Rider, YouTrack, TeamCity and Space on a daily basis
 
 </details>
-
-## 📊 GitHub Stats
-
-<details>
-  <summary>... show GitHub stats</summary>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=distromax&show_icons=true&theme=dark&hide_border=true)
-
-</details>
-
----
-
-*I like systems that stay useful for a long time.*
