@@ -27,7 +27,7 @@ For almost two decades I have been working in a company that builds software for
 * embedded systems, microcontrollers and IoT projects
 * home automation with open source platforms
 * energy systems, solar power and battery storage
-* 3D printing and CNC machining for maker projects
+* 3D printing for maker projects
 
 </details>
 
