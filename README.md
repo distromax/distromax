@@ -1,43 +1,40 @@
 ![Header](./asset/github-header-banner.png)
 
-I enjoy programming as much as children enjoy playing in a sandbox or building sandcastles on the beach 🏖️
-There is something deeply satisfying about shaping logic, connecting systems and watching ideas compile into real behaviour ⚙️✨
-Programming never felt like an obligation, but rather a place to tinker ⚙️ and to create something from skretch, and to watch ideas turn into working systems 💡➡️💻
+Senior Software Engineer with a focus on building stable, maintainable and production ready systems.
 
-In the end, they're just sandcastles too — only these ones run on servers 🏰🖥️
+I work close to real world processes and operational constraints. My strength lies in translating complex domain requirements into software that remains understandable, reliable and operable over time.
 
-One of the things I enjoy most is seeing my oldest son discover the same fascination for programming that pulled me in years ago. Watching him explore code with the same curiosity I once had feels like seeing the loop continue. We often talk about ideas, experiment together and share that quiet thrill when something finally works. It is a personal reminder that this craft is more than a job. It is something that can inspire across generations.
+I am particularly interested in system boundaries, long term maintainability and the realities of running software in production.
 
-## 🧪 My profession
+## 🧪 Professional focus
 
-<details>
-  <summary>... read more</summary>
-<br>
+For almost two decades I have been working on adaptable software systems in the area of maintenance and asset management.
 
-For almost two decades I have been working in a company that builds software for maintenance and asset management. This is the domain I know best. My daily work has been shaped by the realities of inspections, work orders, asset lifecycles, planned and unplanned maintenance, interfaces to foreign systems and the operational pressure that comes with keeping infrastructure running. It is the field where my technical work meets real world processes.
+My work is shaped by real operational pressure: inspections, work orders, asset lifecycles, planned and unplanned maintenance, system integrations and the need to keep critical infrastructure running.
 
-</details>
+I am not a domain expert in maintenance itself. I understand the domain from a software and system perspective and know how to build solutions that fit into real operational environments.
 
-## 🔧 My hobbys
+## 🔬 Personal projects and interests
 
 <details>
   <summary>... read more</summary>
 <br>
 
-* embedded systems, microcontrollers and IoT projects
-* home automation with open source platforms
+* embedded systems and microcontrollers
+* IoT projects where software meets physical reality
+* home automation based on open source platforms
 * energy systems, solar power and battery storage
-* 3D printing for maker projects
+* 3D printing for functional maker projects
 
 </details>
 
-## 🧰 Tech Stack
+## 🧰 Tech stack
 
 <details>
   <summary>... read more</summary>
 <br>
 
-### 🧰 Programming
+### Programming
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
@@ -45,17 +42,17 @@ For almost two decades I have been working in a company that builds software for
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 </p>
 
-My main work lives in C# and operational software environments.
-Delphi shows up occasionally when old systems need my attention.
+My main work lives in C# and operational software environments.  
+Delphi appears occasionally when older systems require attention.
 
-### Architecture and Integrations
+### Architecture and integrations
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
@@ -64,18 +61,21 @@ Delphi shows up occasionally when old systems need my attention.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </p>
 
-### 🔧 Tools and Ecosystem
+### Tools and ecosystem
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" height="40" alt="JetBrains Rider" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="JetBrains Tools" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="Apple XCode" />
+  <img src="https://cursor.com/marketing-static/_next/image?url=%2Fmarketing-static%2Fdownload%2Fapp-icon-25d-dark.png&w=384&q=70" height="40" alt="Cursor AI" />
 </p>
 
-I work within the JetBrains ecosystem like ReSharper, Rider, YouTrack, TeamCity and Space on a daily basis
+I work daily within the JetBrains ecosystem including Rider, ReSharper, YouTrack, TeamCity and Space.
+
+Tools and technologies are interchangeable. What matters to me is system clarity, long term maintainability and operational reliability.
 
 </details>
