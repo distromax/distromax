@@ -1,4 +1,4 @@
-![Header](./asset/github-header-banner.png)
+![Header](./asset/LinkedInBanner.png)
 
 Senior Software Engineer with a focus on building stable, maintainable and production ready systems.
 
