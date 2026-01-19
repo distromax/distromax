@@ -1,6 +1,6 @@
 ![Header](./asset/LinkedInBanner.png)
 
-Senior Software Engineer with a focus on building stable, maintainable and production ready systems.
+Senior Software Developer with a focus on building stable, maintainable and production ready systems.
 
 I work close to real world processes and operational constraints. My strength lies in translating complex domain requirements into software that remains understandable, reliable and operable over time.
 
